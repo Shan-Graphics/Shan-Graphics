@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "Shan Graphics",
+  "short_name": "Shan Graphics",
+  "description": "Graphic design studio in Sri Lanka: flyers, posters, social media designs and more.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F6F6F8",
+  "theme_color": "#B90D0D",
+  "categories": ["business", "design"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
